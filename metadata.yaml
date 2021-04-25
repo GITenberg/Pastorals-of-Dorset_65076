@@ -1,5 +1,5 @@
 _repo: Pastorals-of-Dorset_65076
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cooper, Claud C. Du Pré
@@ -8,6 +8,9 @@ contributor:
     - Cooper, Claud
     gutenberg_agent_id: '53176'
     url: http://www.gutenberg.org/2009/agents/53176
+covers:
+- cover_type: archival
+  image_path: 65076-h/images/cover.jpg
 creator:
   author:
     agent_name: Francis, M. E.
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4243
     wikipedia: https://en.wikipedia.org/wiki/M._E._Francis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65076#Pastorals-of-Dorset
 gutenberg_issued: '2021-04-13'
 gutenberg_type: Text
 identifiers:
