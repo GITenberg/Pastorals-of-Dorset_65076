@@ -1,0 +1,41 @@
+_repo: Pastorals-of-Dorset_65076
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cooper, Claud C. Du Pré
+    aliases:
+    - Cooper, Claud C. Du Pre
+    - Cooper, Claud
+    gutenberg_agent_id: '53176'
+    url: http://www.gutenberg.org/2009/agents/53176
+creator:
+  author:
+    agent_name: Francis, M. E.
+    aliases:
+    - Blundell, Mrs. Francis
+    - Blundell, Mary Elizabeth
+    - Blundell, Mary E. Sweetman
+    deathdate: 1930
+    gutenberg_agent_id: '4243'
+    url: http://www.gutenberg.org/2009/agents/4243
+    wikipedia: https://en.wikipedia.org/wiki/M._E._Francis
+description: ''
+gutenberg_issued: '2021-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Fiction'
+- !lcsh 'Dorset (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: Shepherd Robbins -- Private Griggs -- Up at the 'lotments -- The
+  only soldier -- A rustic Argus -- The rosy plate -- Becky and Bithey -- The lover's
+  wraith -- Johnny at Shroton Fair -- The rout of the conqueror -- How Granfer volunteered.
+title: Pastorals of Dorset
+url: http://www.gutenberg.org/ebooks/65076
